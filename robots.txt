@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepakdcs.github.io/nexacore-website/sitemap.xml
